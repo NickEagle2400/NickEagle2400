@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, i'm Nicolas 👋
 
 <!--
 **NickEagle2400/NickEagle2400** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
